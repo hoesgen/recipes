@@ -1,2 +1,1 @@
-Eggs	2	pcs
-Milk	150	ml
+Milk	50	ml
