@@ -1,2 +1,4 @@
 Eggs	2	pcs
 Milk	150	ml
+Sugar	75	g
+Nuts	25	g
